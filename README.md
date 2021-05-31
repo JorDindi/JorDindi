@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Where Is Time? - Hypercasual Mobile Game
-- 🌱 I’m currently learning C# & Unity Engine
+- 🔭 I’m currently working on Cybernet Academy teaching Java
+- 🌱 I’m currently learning Unreal Engine 5
 - 👯 I’m looking to collaborate on  Unity Engine
 - 🤔 I’m looking for help with C#
 - 💬 Ask me about  Anything
