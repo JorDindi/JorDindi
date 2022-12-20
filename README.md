@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordindi&label=Profile%20views&color=0e75b6&style=flat" alt="jordindi" /> </p>
 
-- 🔭 I’m currently working at **Global1SIM as a Department Manager**
+- 🔭 I’m currently working at **Wi-Wi LTD. as a Programmer and Sales Person**
 
-- 🌱 I’m currently learning **Blender**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **Game Jams and Game Dev**
 
