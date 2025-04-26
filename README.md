@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dor Yahav</h1>
-<h3 align="center">A passionate game developer from Israel</h3>
+<h3 align="center">A passionate game developer and web application developer from Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordindi&label=Profile%20views&color=0e75b6&style=flat" alt="jordindi" /> </p>
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently learning **Electron**
 
-- 👯 I’m looking to collaborate on **Game Jams and Game Dev**
+- 👯 I’m looking to collaborate on **Game Jams and Game Dev, also Mod Development**
 
-- 🤝 I’m looking for help with **C#, Java, Game Development**
+- 🤝 I’m looking for help with **C#, Java, Game Development, Application development**
 
-- 💬 Ask me about **unity, spigot, photoshop, node.js**
+- 💬 Ask me about **Unity, Spigot, Photoshop, Node.js, C#, Java, JavaScript, Git**
 
 - 📫 How to reach me **dory840@gmail.com**
 
